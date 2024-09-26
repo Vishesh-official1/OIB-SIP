@@ -1,0 +1,52 @@
+body {margin:25px;}
+
+.marggin{
+    margin: 25px;
+  
+}
+
+.firrst{
+    background-image: url('Orange\ &\ Purple\ Geometric\ Tehnology\ Linkdln\ Banner.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 350px;
+    text-align: center;
+
+}
+div.groot{
+    display: flex;
+}
+h2.grooting{
+    color: orangered;
+    margin-top: 29px;
+}
+
+.rowss {
+    display: grid;
+    align-content: center;
+    text-align: center;
+    gap: 1px;
+    grid-template-columns: 40% 40%;
+    font-size: 60px;
+    padding: 2%;
+  }
+
+  .colss {
+    display: grid;
+    align-content: center;
+    text-align: center;
+    gap: 50px;
+    grid-template-columns: 45% 45% 45%;
+    font-size: 45px;
+  }
+
+  .seccd{
+    background-image: url('fast.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 350px;
+    text-align: center;
+
+}
